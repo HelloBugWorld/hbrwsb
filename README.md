@@ -1,10 +1,1 @@
-# hbrwsb
-``` 
-if (remote.useragent == 'hbrwsb') {
-echo 'hbrwSB!';
-} else {
-echo ' HBRW is SB? No,It's HALLYBUTTEST ROMINWOLF!';
-} 
-
-> <b>HBRWSB</b> is a site of Project SB™.</br>
-> Other Project SB™ sites: beSB coxxsb bceoxsb
+# hbrwsb2​3    if (remote.useragent == 'hbrwsb') {4    echo 'hbrwSB!'; 5    } else { 6    echo ' HBRW is SB? No,It's HALLYBUTTEST ROMINWOLF!'; 7    }8​9**HBRWSB** is a site of Project SB™. 10Other Project SB™ sites: [beSB](https://github.com/Coxxs/coxxsb "beSB") [coxxsb](http://coxxsb.com "coxxsb") [bceoxsb](http://mecho.me "bceoxsb")
